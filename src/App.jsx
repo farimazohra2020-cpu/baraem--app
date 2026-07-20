@@ -1094,4 +1094,4 @@ export default function Root() {
   }, []);
   if (!ready) return <FamilyCodeGate onReady={() => setReady(true)} />;
   return <MainApp />;
-                                                                                                                                                                                                                                                  }}
+        }                                                                                                            }}
