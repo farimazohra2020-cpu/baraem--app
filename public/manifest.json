@@ -1,0 +1,13 @@
+{
+  "name": "براعم",
+  "short_name": "براعم",
+  "description": "رفيقك اليومي في الصلاة والمهام والأخلاق",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F6FF",
+  "theme_color": "#4C7EF3",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
